@@ -2,11 +2,11 @@
 
 I am a  2022 fall Phd student in UC Riverside
 - research: time series forecasting in methods of both econometrics and machine learning
+- coursework: Math Statistics, Data Science with python, Data Structure and algorithm with java
 
 ### Education 
 - Master’s degree in Economics, Boston University, 2021
 - Bachelor’s degree in Economics, Chongqing Technology and Business University, 2018
-- coursework: Math Statistics, Data Science with python, Data Structure and algorithm with java
 
 ### Work Experience
 Data Scientist and Visualization Developer, Lenovo China, MBG Service Operation, Beijing, 08/2021 - 05/2022

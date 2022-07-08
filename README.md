@@ -14,10 +14,9 @@ Data Scientist and Visualization Developer, Lenovo China, MBG Service Operation,
 - Building machine learning model to classify repair type of Motorola phones. Establishing linear and non-linear regression models to figure out relationships of devices\` first repair time and the overall satisfaction of services.
 - Developing VAR and ARIMA models in Python to forecast future weekly satisfaction score of maintenance services, and developing live compute tools. Developing visualization report with tableau, analyzing business logic of KPI and come up with computation methods.
 
-## Related Training
+### Related Training
 - Research Assistant in RA-Mentor Program of Economics Department, Boston University
-
-• Supervisor: Alden Porter & Elias llin
+Supervisor: Alden Porter & Elias llin
 • Analyzed the data of "income and project participation survey" of the US Bureau of statistics, forecasted the
 income trend through the random forest prediction model, and sorted the importance of influencing factors, and
 selects 20 important variables for subsequent variable restructuring.
@@ -25,7 +24,7 @@ selects 20 important variables for subsequent variable restructuring.
 test and Granger causality test to explore and test the causality between time series variables.
 
 - Analyze Credit Data of Prosper Loan from Kaggle
-• Supervisor: Pinsky Eugene
+Supervisor: Pinsky Eugene
 • Used Pandas and Numpy transformed data types, imputed missing data with randomly distributed numbers,
 plotted heatmap to explore variable correlations.
 • Used packages from Sklearn trained decision tree and random forest models to explore whether new credit grade
